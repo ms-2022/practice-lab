@@ -48,6 +48,7 @@ Leon
 Camila
 Ciaran
 Lukasz
+Alfie
 Bartosz
 Jiehong
 Alberto
@@ -76,4 +77,10 @@ Mairi B
 Justyna
 Farheena
 Richard
+Michaele
+Nirali
+Jenni
+Keir
+Callum
+Mags
 Gordon
