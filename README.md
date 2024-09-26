@@ -48,6 +48,7 @@ Leon
 Camila
 Ciaran
 Lukasz
+Alfie
 Bartosz
 Jiehong
 Alberto
@@ -76,4 +77,9 @@ Mairi B
 Justyna
 Farheena
 Richard
-Yamahaclavinov1(Mags M)
+Michaele
+Nirali
+Jenni
+Keir
+Callum
+Mags
