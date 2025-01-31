@@ -4,7 +4,6 @@ This repo is used as part of my Git practice lab, add your name to the **END** o
 
 ## Names of people who have completed the lab
 
-Pablo L
 Michael
 Fernanda
 Ross
@@ -101,3 +100,9 @@ Tiago
 Mykola
 Cecilia
 Jessica
+Matteo
+Gregory
+Alex
+Bikiza
+Callum
+Pablo L
