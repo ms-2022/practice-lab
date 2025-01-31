@@ -100,5 +100,13 @@ Tiago
 Mykola
 Cecilia
 Jessica
+Matteo
 Gregory
+Alex
+Bikiza
+Callum
+Pablo L
+Johnathan
+Mikolaj
+Colin
 Magdalena
