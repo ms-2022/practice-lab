@@ -100,6 +100,7 @@ Tiago
 Mykola
 Cecilia
 Jessica
+Gregory
 Matteo
 Gregory
 Alex
@@ -108,4 +109,8 @@ Callum
 Pablo L
 Johnathan
 Mikolaj
+Colin
+Magdalena
+Przemyslaw
+Andrea
 Patryk
